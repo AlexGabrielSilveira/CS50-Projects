@@ -4,6 +4,7 @@
 |---------|--------|
 | Readability |   ✅ Concluído   |
 | Caesar |    ✅ Concluído  |
+| Scrabble | ✅ Concluído |
 
 
 ## 🛠 Tecnologias Utilizadas
